@@ -3,7 +3,7 @@ Cleaning Data in SQL Queries
 Skills used - CONVERT, Parse Name, Self Join, Is null, Update, Alter, String Functions, Case, CTEs, Row number 
 */
 
- use [Alex.Portfolio_Project_1]
+ use [Portfolio_Project_1]
 
 Select * From [dbo].[Nashville_Housing_Data_for_Data_Cleaning]
 Order By 1
